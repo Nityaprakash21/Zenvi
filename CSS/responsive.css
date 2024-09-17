@@ -1,0 +1,185 @@
+@media only screen and (min-width: 200px) and (max-width: 575px) {
+  /* ! Hero Section Start */
+  .hero-section p {
+    font-size: 16px;
+  }
+  .downloadInfo {
+    flex-wrap: wrap;
+  }
+  .hero-section .downloadInfo img {
+    margin: auto;
+  }
+  /* ! Hero Section End */
+  /* ! Features Overview Section Start */
+  .feature_Smart_Phone {
+    width: 80%;
+  }
+  /* ! Features Overview Section End */
+  /* ! How Zenvi Works Section Start */
+  .howItWorks h3 {
+    font-size: 40px;
+  }
+  /* ! How Zenvi Works Section End */
+  /* ! Testimonial Section Start */
+  .clientCard .quote {
+    width: 15%;
+    top: -6%;
+  }
+  .clientCard h5 {
+    font-size: 22px;
+  }
+  /* ! Testimonial Section Start */
+  /* ! Footer Section Start */
+  .footer2 h5 {
+    font-size: 18px;
+  }
+  /* ! Footer Section End */
+}
+
+@media only screen and (min-width: 576px) and (max-width: 991px) {
+  /* ! Hero Section Start */
+  .hero-section .downloadInfo {
+    justify-content: center;
+  }
+  /* ! Hero Section End */
+  /* ! Features Overview Section Start */
+  .feature_Smart_Phone {
+    width: 100%;
+  }
+  /* ! Features Overview Section End */
+  /* ! How Zenvi Works Section Start */
+  .howItWorks h3 {
+    font-size: 65px;
+  }
+  /* ! How Zenvi Works Section End */
+  /* ! Testimonial Section Start */
+  .clientCard .quote {
+    width: 15%;
+    top: -15%;
+  }
+  /* ! Testimonial Section End */
+  /* ! Footer Section Start */
+  .footer2 h5 {
+    font-size: 20px;
+  }
+  /* ! Footer Section End */
+}
+
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+  /* ! Hero Section Start */
+  .hero-heading {
+    font-size: 30px;
+  }
+  .hero-section p {
+    font-size: 18px;
+  }
+  /* ! Hero Section End */
+  /* ! Calming Presence Section Start */
+  .commonLeaf {
+    width: 30%;
+  }
+  .rightLeaf {
+    top: -1%;
+  }
+  /* ! Calming Presence Section End */
+  /* ! Features Overview Section Start */
+  .mobile-grey {
+    background-color: #fd7436;
+  }
+  .feature-numbering {
+    font-size: 50px;
+    color: rgba(255, 255, 255, 0.4);
+  }
+  /* ! Features Overview Section End */
+  /* ! Daily Motivational Messages Section Start */
+  .mobile-motivation {
+    background: #f5f5f5;
+  }
+  .numbering2 {
+    font-size: 50px;
+  }
+  .featureCard h5 {
+    font-size: 20px;
+    color: var(--primary-color);
+  }
+  .feature_content-2 .sub-Plans {
+    color: #939393;
+  }
+  .feature_content-2 h4 {
+    font-size: 40px;
+  }
+  /* ! Daily Motivational Messages Section End */
+  /* ! How Zenvi Works Section Start */
+  .whyLeaf {
+    top: 0%;
+    right: 0%;
+  }
+  /* ! How Zenvi Works Section End */
+  /* ! Testimonial Section Start */
+  .testimonialHeading h3 {
+    font-size: 40px;
+  }
+  .testimonialHeading p {
+    font-size: 16px;
+  }
+
+  .rightLeaf2 {
+    top: 0%;
+  }
+  .clientCard {
+    width: 100%;
+    margin-bottom: 100px;
+  }
+  .clientCard .clientInfo {
+    top: 70%;
+  }
+  /* ! Testimonial Section End */
+  /* ! FAQs Section Start */
+  .leftArrowBtn {
+    top: 30%;
+    left: 2%;
+  }
+  #faqSlider .owl-prev {
+    width: 50px;
+    top: 30%;
+    left: 1%;
+  }
+  /* ! FAQs Section End */
+  /* ! Footer Section Start */
+  .footer1 .TandC {
+    font-size: 18px;
+  }
+  /* ! Footer Section End */
+  /* ! Take Control Section Start */
+  .takeControl {
+    border-radius: 40px;
+  }
+
+  .takeControl h3 {
+    font-size: 30px;
+  }
+
+  .takeControl p {
+    font-size: 20px;
+  }
+
+  .takeControl .takeControl-items1 {
+    flex-basis: 100%;
+  }
+
+  .takeControl .takeControl-items2 {
+    flex-basis: 100%;
+  }
+  .downloadItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .takeControlImg {
+    position: relative;
+    bottom: 100%;
+    width: 50%;
+  }
+
+  /* ! Take Control Section End */
+}
